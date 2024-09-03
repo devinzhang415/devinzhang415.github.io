@@ -1,7 +1,5 @@
 ---
 permalink: /talks/
-title: "Talks and presentations"
+title: "Talks and Presentations"
 author_profile: true
 ---
-
-Lorem ipusum.
