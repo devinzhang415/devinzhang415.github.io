@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Devin Zhang"
 title_separator          : "-"
 name                     : &name "Devin Zhang"
-description              : &description "Undergraduate researcher @ Georgia Tech"
+description              : &description "Undergraduate Researcher @ Georgia Tech"
 url                      : https://devinzhang415.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "devinzhang415/devinzhang415.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Devin Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate researcher @ Georgia Tech"
+  bio              : "Undergraduate Researcher @ Georgia Tech"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
